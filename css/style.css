@@ -628,7 +628,7 @@ header:after{
 #contact .left {
     height: 100%;
     width: 500px;
-    background: url("/img/moon.png") no-repeat center;
+    background: url("../img/moon.png") no-repeat center;
     background-size: cover;
 }
 #contact .right {
