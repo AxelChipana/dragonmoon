@@ -417,6 +417,9 @@ header:after{
     #about .wrapper2 .grid-item {
         height: 500px;
     }
+    #about .wrapper2 .grid {
+        width: 80%;
+    }
 }
 /* FIN GRID */
 
@@ -688,6 +691,9 @@ header:after{
     background-color: rgb(153, 153, 153);
 }
 @media screen and (max-width:880px){
+    #contact .container {
+        padding: 20px 30px;
+    }
     #contact .contact-box {
         grid-template-columns: 1fr;
     }
