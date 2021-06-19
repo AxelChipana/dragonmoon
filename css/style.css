@@ -326,7 +326,7 @@ header:after{
     background: linear-gradient(to top, rgb(8, 8, 8), transparent);
 }
 .about {
-	padding-top: 7rem;
+	padding-top: 5.5rem;
 	color: white;
 }
 .about .wrapper {
